@@ -1,1 +1,1 @@
-image: docker-android-real-device
+image: budtmo/docker-android-real-device
