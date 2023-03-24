@@ -1,1 +1,1 @@
-image: budtmo/docker-android-genymotion
+image: docker-android-real-device
